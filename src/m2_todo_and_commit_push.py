@@ -60,7 +60,7 @@ print('Hello, World')
 # TODO: 3.
 #   Add another   print   statement below this comment.
 #   It should print any string that you want (but keep it polite and G-rated!)
-#    done
+print('Hello, World')
 #
 #   Test your code by re-running this module, either by proceeding
 #   as you did when you ran this module the first time,
@@ -77,6 +77,7 @@ print('Hello, World')
 #   This one should print the *product* of 3,607 and 34,227.
 #   Let the computer do the arithmetic for you (no calculators!).
 #   You do NOT have to use strings for this, so no quotation marks!
+print(3607*34227)
 #
 #   TEST your code by re-running this module, then asking someone
 #   whom you trust:
