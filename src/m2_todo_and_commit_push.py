@@ -99,7 +99,7 @@ print(3607*34227)
 #
 #   COMMIT and PUSH your work by:
 #     1. Select   VCS   from the menu bar (above).
-#     2. Choose  Commit  from the pull-down menu that appears.
+#     2. Choose  Commit  from the pull-down menu that appears..
 #     3. In the  Commit Changes  window that pops up,
 #        press the   Commit and Push   button.
 #           (Note: If you see only a Commit button:
