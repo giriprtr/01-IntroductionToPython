@@ -60,4 +60,3 @@ blue.pen = rg.Pen('green', 10)
 blue.forward(150)
 
 window.close_on_mouse_click()
-k
