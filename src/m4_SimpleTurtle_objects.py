@@ -80,7 +80,7 @@ import rosegraphics as rg
 # The definition of a  TurtleWindow  is in the   rg
 # (shorthand for rosegraphics) module.
 # -----------------------------------------------------------------------------
-window = rg.TurtleWindow()
+window = rg.TurtleWindow(.)
 window.delay(20)  # Bigger numbers mean slower animation.
 
 # -----------------------------------------------------------------------------
