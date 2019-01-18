@@ -30,6 +30,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
 ########################################################################
 import rosegraphics as rg
 window = rg.TurtleWindow()
+window.tracer(5)
 blue = rg.SimpleTurtle('turtle')
 blue.pen = rg.Pen('blue', 3)
 blue.speed = 20
@@ -46,7 +47,7 @@ for k in range(100):
 
 red.right(90)
 red.forward(75)
-for t in range(1000):
+for t in range(10000):
     n = 45 + t
     red.forward(100)
     red.right(n + t)
