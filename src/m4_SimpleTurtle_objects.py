@@ -187,4 +187,3 @@ jim.forward(67)
 # should be the LAST line in the file.  DO NOT ADD CODE BELOW THIS LINE!
 # -----------------------------------------------------------------------------
 window.close_on_mouse_click()
-.
