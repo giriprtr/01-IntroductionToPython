@@ -16,7 +16,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 1.
+# Done: 1.
 #   (Yes, that means for YOU to DO things per these instructions:)
 #
 #   Run this module by right clicking anywhere in this window
@@ -32,7 +32,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 2.
+# Done 2.
 #   Notice the small horizontal BLUE bars on the scrollbar-like thing
 #   on the right.  Each blue bar indicates a thing TO-DO in this module.
 #
@@ -57,7 +57,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 3.
+# Done: 3.
 #   Add another   print   statement below this comment.
 #   It should print any string that you want (but keep it polite and G-rated!)
 print('Hello, World')
@@ -72,7 +72,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 4.
+#  Done: 4.
 #   Add yet another   print   statement, putting it below this comment.
 #   This one should print the *product* of 3,607 and 34,227.
 #   Let the computer do the arithmetic for you (no calculators!).
