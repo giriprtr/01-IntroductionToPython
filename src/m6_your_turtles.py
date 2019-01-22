@@ -36,7 +36,7 @@ blue.pen = rg.Pen('blue', 3)
 blue.speed = 20
 red = rg.SimpleTurtle('turtle')
 red.speed = 100
-red.pen = rg.Pen('red', 0.5)
+red.pen = rg.Pen('red', 0.5
 
 
 blue.forward(5)
