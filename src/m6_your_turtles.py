@@ -55,3 +55,4 @@ for t in range(10000):
     red.left(t)
     red.forward(t)
 
+window.close_on_mouse_click()
